@@ -1,0 +1,16 @@
+{
+  "name": "vetores-interativo",
+  "version": "1.0.0",
+  "description": "Aula interativa de Vetores (Geometria Analítica) com espaço 3D",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "katex": "0.16.11"
+  }
+}
